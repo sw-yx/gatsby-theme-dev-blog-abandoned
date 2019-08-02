@@ -1,3 +1,9 @@
+## notes to self on why i abndoned GTDB v2
+
+i tried to make GTDB a child theme of GTB but it was such a bad eject experience that i felt i should go back to the straight fork of GTB.
+
+---
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />

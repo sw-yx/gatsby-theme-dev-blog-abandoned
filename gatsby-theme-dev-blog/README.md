@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  gatsby-theme-RENAME_ME
+  gatsby-theme-dev-blog
 </h1>
 
-A child theme of [gatsby-theme-blog](https://www.gatsbyjs.org/packages/gatsby-theme-blog/?=gatsby-theme-blog).
+This is a child theme of [gatsby-theme-blog](https://www.gatsbyjs.org/packages/gatsby-theme-blog/?=gatsby-theme-blog) with special customizations by `swyx`, for better developer experience and adding extra options.
 
 ## Create a site from the starter:
 
